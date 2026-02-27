@@ -1,5 +1,5 @@
-# Data-Cleaning USING MYSQL
-This MySQL project demonstrates data cleaning techniques. A real-world layoffs dataset is imported and meticulously cleaned, addressing duplicates, standardizing entries, and handling null values. Learn practical steps for data preparation.
+# DATA CLEANING AND EXPLORATORY DATA ANALYSIS  USING MYSQL
+This MySQL project demonstrates data cleaning techniques. A real-world layoffs dataset is imported and meticulously cleaned, addressing duplicates, standardizing entries, and handling null values. Learn practical steps for data preparation. and also performed EDA 
 <br>
  the DATASET contains 2361 Records 
  the headers are as followed
